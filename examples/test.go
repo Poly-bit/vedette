@@ -7,8 +7,8 @@ import (
 )
 
 type networkInformation struct {
-	Networks	[]string
-	Ports		[]string
+	Networks []string
+	Ports    []string
 }
 
 func main() {
